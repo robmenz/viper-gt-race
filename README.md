@@ -4,7 +4,7 @@ Gioco di corse scritto in C++ nel 2003 per l'esame di Elementi di Informatica
 (premio per il miglior gioco del corso). Questa è la versione web del 2026:
 stessa logica dell'originale, giocabile nel browser e installabile sul telefono.
 
-**Gioca:** https://TUO-UTENTE.github.io/viper-gt-race/
+**Gioca:** https://robmenz.github.io/viper-gt-race/
 
 ## Comandi
 - Frecce: guida (↑ accelera, ↓ frena) · Spazio: clacson · M/N: musica · P: pausa

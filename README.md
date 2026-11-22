@@ -17,4 +17,3 @@ stessa logica dell'originale, giocabile nel browser e installabile sul telefono.
 | manifest.webmanifest | Nome e icone per installarlo come app |
 | sw.js | Lo rende installabile e giocabile offline |
 | icon-*.png, apple-touch-icon.png, favicon.png | Icone |
-| og-image.png | Immagine di anteprima per LinkedIn |
